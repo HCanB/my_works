@@ -16,7 +16,7 @@ Shared for portfolio purposes...
 
 **ENG**: Acoustic data classifier - Behavior change prediction from client voice
 
-## Project 2: MEtin Modeli / text based model
+## Project 2: [Metin Modeli / text based model](back_translation_oversampling_model_dinamik_tokenization_cv_5_duygu_tl_adlı_dosyanın_kopyası.ipynb)
 **TR**: Transfer Learning tabanlı metin sınıflandırıcısı: danışan ifadelerinin metne dönüştürülerek daha önce derlenmiş başka model ağırlıkları ile yeniden eğitilmesi.
 
 **ENG**: Transfer Learning based text classifier: converting client utterances to text and retraining with other previously compiled model weights.
