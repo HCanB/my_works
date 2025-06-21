@@ -23,6 +23,7 @@ Shared for portfolio purposes...
 
 ## Project 3: [Metin verisi ön işleme BERT için girdi hazırlığı / Text preprocessing for BERT](metin_ön_,işleme.ipynb)
 **TR**: Soru cevap üzerinden tahminleme için BERT'e uygun ön işleme
+
 **ENG**: Text precessing suited to BERT for a classification model over Question and Answer text
 
 
