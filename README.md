@@ -12,13 +12,13 @@ Shared for portfolio purposes...
 
 
 ## Project 1: ses modeli / acoustic model
-### TR: Akustik veri sınıflandırıcısı - Danışan sesi üzerinden davranış değişim tahminlemesi
-### ENG: Acoustic data classifier - Behavior change prediction from client voice
+**TR**: Akustik veri sınıflandırıcısı - Danışan sesi üzerinden davranış değişim tahminlemesi
+**ENG**: Acoustic data classifier - Behavior change prediction from client voice
 
 ## Project 2: MEtin Modeli / text based model
-### TR: Transfer Learning tabanlı metin sınıflandırıcısı: danışan ifadelerinin metne dönüştürülerek daha önce derlenmiş başka model ağırlıkları ile yeniden eğitilmesi.
+**TR**: Transfer Learning tabanlı metin sınıflandırıcısı: danışan ifadelerinin metne dönüştürülerek daha önce derlenmiş başka model ağırlıkları ile yeniden eğitilmesi.
 
-### ENG: Transfer Learning based text classifier: converting client utterances to text and retraining with other previously compiled model weights.
+**ENG**: Transfer Learning based text classifier: converting client utterances to text and retraining with other previously compiled model weights.
 
 ## Project 3: .......
 
