@@ -21,7 +21,10 @@ Shared for portfolio purposes...
 
 **ENG**: Transfer Learning based text classifier: converting client utterances to text and retraining with other previously compiled model weights.
 
-## Project 3: .......
+## Project 3: Metin verisi ön işleme BERT için girdi hazırlığı / Text preprocessing for BERT
+**TR**: Soru cevap üzerinden tahminleme için BERT'e uygun ön işleme
+**ENG**: Text precessing suited to BERT for a classification model over Question and Answer text
+
 
 ## Project 4: .......
 
