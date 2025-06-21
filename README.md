@@ -13,6 +13,7 @@ Shared for portfolio purposes...
 
 ## Project 1: ses modeli / acoustic model
 **TR**: Akustik veri sınıflandırıcısı - Danışan sesi üzerinden davranış değişim tahminlemesi
+
 **ENG**: Acoustic data classifier - Behavior change prediction from client voice
 
 ## Project 2: MEtin Modeli / text based model
