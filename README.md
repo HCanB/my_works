@@ -34,6 +34,8 @@ Shared for portfolio purposes...
 
 
 Contact:
+
 H. Can BARUTCU
-hcanbarutcu@gmail.com
+
+hcanbarutcu@gmail.com ||
 www.linkedin.com/in/h-can-barutcu-wu
