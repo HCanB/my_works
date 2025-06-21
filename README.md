@@ -2,7 +2,8 @@
 
 I present my works here for HR or other professional visitors.
 
-## Project 1: Akustik veri sınıflandırıcısı - Danışan sesi üzerinden davranış değişim tahminlemesi
+## Project 1: ses modeli
+Akustik veri sınıflandırıcısı - Danışan sesi üzerinden davranış değişim tahminlemesi
 
 ## Project 2: .......
 
