@@ -27,7 +27,10 @@ Shared for portfolio purposes...
 **ENG**: Text precessing suited to BERT for a classification model over Question and Answer text
 
 
-## Project 4: .......
+## Project 4: [Çoklu Lojistik Reg. Öğrenme Analitiği / Multi Logistic Reg. for Learning Analytics](Çoklu_lojistik_regresyon.ipynb)
+**TR**: Göz Takip Verileri kullanılarak İşitsel Öğrenen ile Görsel Öğrenenin Ayrıştırılması
+
+**ENG**: Using Eye tracking data for classifying Auditory and Visual Learners
 
 
 Contact:
