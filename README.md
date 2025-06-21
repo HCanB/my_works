@@ -11,7 +11,7 @@ Shared for portfolio purposes...
 
 
 
-## Project 1: ses modeli / acoustic model
+## Project 1: [ses modeli / acoustic model](ses_modeli_CNN2D.ipynb)
 **TR**: Akustik veri sınıflandırıcısı - Danışan sesi üzerinden davranış değişim tahminlemesi
 
 **ENG**: Acoustic data classifier - Behavior change prediction from client voice
