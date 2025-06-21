@@ -1,2 +1,17 @@
 # my_works
-I present my works here for HR visitor 
+
+I present my works here for HR or other professional visitors.
+
+## Project 1: .......
+
+## Project 2: .......
+
+## Project 3: .......
+
+## Project 4: .......
+
+
+Contact:
+H. Can BARUTCU
+hcanbarutcu@gmail.com
+www.linkedin.com/in/h-can-barutcu-wu
